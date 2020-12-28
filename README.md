@@ -31,7 +31,7 @@ Takeaways of the analysis:
 * ETH-USD
   * Although better than the BTC-USD funding rate, the annualised funding rate is near zero: 0.01194% 
   
-![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-per-hour.png?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-hour.png?raw=true "Optional Title")
 
 ![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-annualised.png?raw=true "Optional Title")
 
