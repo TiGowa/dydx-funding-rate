@@ -27,6 +27,6 @@ Some takeaways:
 
 ![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-per-hour.png?raw=true "Optional Title")
 
-* Annualised funding rate
+* Monthly annualised funding rate
 
 ![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/annualised-funding.png?raw=true "Optional Title")
