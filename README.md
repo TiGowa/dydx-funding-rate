@@ -19,7 +19,7 @@ The method used is: GET https://api.dydx.exchange/v1/historical-funding-rates
 
 Doc: https://docs.dydx.exchange/#get-historical-funding-rates
 
-Takeaways of the analysis:
+Some takeaways:
 
 * BTC-USD
   * Although positive (longs pay shorts), the annualised funding rate is almost null: 0.0072%
