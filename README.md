@@ -21,18 +21,12 @@ Doc: https://docs.dydx.exchange/#get-historical-funding-rates
 
 Some takeaways:
 
-* BTC-USD
-  * Although positive (longs pay shorts), the annualised funding rate is almost null: 0.0072%
+* Hourly funding rate
 
 ![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/btc-usd-funding-per-hour.png?raw=true "Optional Title")
 
-![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/btc-usd-funding-annualised.png?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-per-hour.png?raw=true "Optional Title")
 
-* ETH-USD
-  * Although better than the BTC-USD funding rate, the annualised funding rate is near zero: 0.01194% 
-  * Hourly variations of the annualised funding rate are more extremes than that of BTC-USD
-  
-![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-hour.png?raw=true "Optional Title")
+* Annualised funding rate
 
-![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/eth-usd-funding-annualised.png?raw=true "Optional Title")
-
+![Alt text](https://raw.githubusercontent.com/TiGowa/dydx-funding-rate/master/annualised-funding.png?raw=true "Optional Title")
